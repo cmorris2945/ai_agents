@@ -1,2 +1,2 @@
 # patten_buddy
-This is the repot used for development of you "Patten-Buddy" component program
+This is the repo used for development of you "Patten-Buddy" component program
