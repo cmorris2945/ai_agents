@@ -9,7 +9,7 @@ This repo is used for the development of "Professional AI Agensts" component pro
 
 
 #### How It Works Together  
-#####  Project ONE. JOB INTERVIEW AGENTS....
+#### #  Project ONE. JOB INTERVIEW AGENTS....
 
 1. The analyst **introduces themselves** and asks the **first question**.  
 2. The AI **refines the questions** based on **previous answers** to **dig deeper** into the topic.  
