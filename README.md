@@ -30,7 +30,7 @@ This repo is used for the development of "Professional AI Agensts" component pro
 This code enables an AI analyst to **conduct structured interviews**, starting with an **introduction** and **focused questions**, refining insights along the way. It dynamically adjusts based on **persona, goals, and prior messages**, making it ideal for **deep-dive explorations** of complex topics.
 
 
-### # Project TWO.... Agent with Long-Term Memory that will manage a "to-do" list for you....
+### # Project TWO:  Agent with Long-Term Memory that will manage a "to-do" list for you....
 
 #### Example Output
 
